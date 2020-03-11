@@ -2,7 +2,7 @@
 
 Django框架实现学生信息管理系统
 
-
+[视频链接]!(https://v.qq.com/x/page/l3072o8woc9.html)
 
 
 总体概括
